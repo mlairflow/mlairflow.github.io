@@ -6,7 +6,8 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Michaël
 middle_name: 
 last_name: Karpe
-contact_note: 
+contact_note: >
+  Find more on my background and connect with me on [LinkedIn](https://www.linkedin.com/in/michaelkarpe).
 description: 
 footer_text: 
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
